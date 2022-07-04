@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<importOrderEntriesData xmlns="http://www.deichmann.com/xml/hybris/4.1/impex">
+    <order-entry>
+        <entrynumber>1</entrynumber>
+        <meta-status>
+            <value>Position Return Status</value>
+        </meta-status>
+        <return-status/>
+    </order-entry>
+    <order-entry>
+        <entrynumber>2</entrynumber>
+        <meta-status>
+            <value>Position Return Status</value>
+        </meta-status>
+        <return-status/>
+    </order-entry>
+</importOrderEntriesData>

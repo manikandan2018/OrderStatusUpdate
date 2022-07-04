@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<consignmentsData xmlns="http://www.deichmann.com/xml/hybris/4.1/impex">
+    <consignment>
+        <delivery-status>
+            <value>Success</value>
+            <delivery-no>1</delivery-no>
+            <info-code>1011</info-code>
+        </delivery-status>
+        <tracking-number>Track:01</tracking-number>
+        <ref-id>Ref: 1</ref-id>
+    </consignment>
+    <consignment>
+        <delivery-status>
+            <value>Success</value>
+            <delivery-no>1</delivery-no>
+            <info-code>1011</info-code>
+        </delivery-status>
+        <tracking-number>Track:02</tracking-number>
+        <ref-id>Ref: 2</ref-id>
+    </consignment>
+    <consignment>
+        <delivery-status>
+            <value>Success</value>
+            <delivery-no>1</delivery-no>
+            <info-code>1011</info-code>
+        </delivery-status>
+        <tracking-number>Track:03</tracking-number>
+        <ref-id>Ref:3</ref-id>
+    </consignment>
+</consignmentsData>

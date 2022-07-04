@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<importOrdersData xmlns="http://www.deichmann.com/xml/hybris/4.1/impex">
+    <order>
+        <code>101</code>
+        <meta-status>
+            <value>Order Meta Status</value>
+        </meta-status>
+        <payment-status>
+            <value>Order Payment Status</value>
+        </payment-status>
+        <shipping-status>
+            <value>Order Shipping Status</value>
+        </shipping-status>
+        <delivery-status>
+            <value>Delivery Status</value>
+            <delivery-no>1</delivery-no>
+            <info-code>777</info-code>
+        </delivery-status>
+        <order-entries>
+            <order-entry>
+                <entrynumber>1</entrynumber>
+                <meta-status>
+                    <value>Position Return Status</value>
+                </meta-status>
+                <return-status/>
+            </order-entry>
+            <order-entry>
+                <entrynumber>2</entrynumber>
+                <meta-status>
+                    <value>Position Return Status</value>
+                </meta-status>
+                <return-status/>
+            </order-entry>
+        </order-entries>
+        <consignments>
+            <consignment>
+                <delivery-status>
+                    <value>Delivery Status</value>
+                    <delivery-no>1</delivery-no>
+                    <info-code>777</info-code>
+                </delivery-status>
+                <tracking-number>Track:01</tracking-number>
+                <ref-id>Ref: 1</ref-id>
+            </consignment>
+            <consignment>
+                <delivery-status>
+                    <value>Delivery Status</value>
+                    <delivery-no>1</delivery-no>
+                    <info-code>777</info-code>
+                </delivery-status>
+                <tracking-number>Track:02</tracking-number>
+                <ref-id>Ref: 2</ref-id>
+            </consignment>
+            <consignment>
+                <delivery-status>
+                    <value>Delivery Status</value>
+                    <delivery-no>1</delivery-no>
+                    <info-code>777</info-code>
+                </delivery-status>
+                <tracking-number>Track:03</tracking-number>
+                <ref-id>Ref:3</ref-id>
+            </consignment>
+        </consignments>
+    </order>
+    <order>
+        <code>102</code>
+        <meta-status>
+            <value>Order Meta Status</value>
+        </meta-status>
+        <payment-status>
+            <value>Order Payment Status</value>
+        </payment-status>
+        <shipping-status>
+            <value>Order Shipping Status</value>
+        </shipping-status>
+        <delivery-status>
+            <value>Delivery Status</value>
+            <delivery-no>1</delivery-no>
+            <info-code>777</info-code>
+        </delivery-status>
+        <order-entries>
+            <order-entry>
+                <entrynumber>1</entrynumber>
+                <meta-status>
+                    <value>Position Return Status</value>
+                </meta-status>
+                <return-status/>
+            </order-entry>
+            <order-entry>
+                <entrynumber>2</entrynumber>
+                <meta-status>
+                    <value>Position Return Status</value>
+                </meta-status>
+                <return-status/>
+            </order-entry>
+        </order-entries>
+        <consignments>
+            <consignment>
+                <delivery-status>
+                    <value>Delivery Status</value>
+                    <delivery-no>1</delivery-no>
+                    <info-code>777</info-code>
+                </delivery-status>
+                <tracking-number>Track:01</tracking-number>
+                <ref-id>Ref: 1</ref-id>
+            </consignment>
+            <consignment>
+                <delivery-status>
+                    <value>Delivery Status</value>
+                    <delivery-no>1</delivery-no>
+                    <info-code>777</info-code>
+                </delivery-status>
+                <tracking-number>Track:02</tracking-number>
+                <ref-id>Ref: 2</ref-id>
+            </consignment>
+            <consignment>
+                <delivery-status>
+                    <value>Delivery Status</value>
+                    <delivery-no>1</delivery-no>
+                    <info-code>777</info-code>
+                </delivery-status>
+                <tracking-number>Track:03</tracking-number>
+                <ref-id>Ref:3</ref-id>
+            </consignment>
+        </consignments>
+    </order>
+</importOrdersData>
